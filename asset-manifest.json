@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gomaci/reacttest/static/css/main.073c9b0a.css",
+    "main.js": "/gomaci/reacttest/static/js/main.2e33ed7c.js",
+    "static/js/787.db1a5ac8.chunk.js": "/gomaci/reacttest/static/js/787.db1a5ac8.chunk.js",
+    "static/media/logo.svg": "/gomaci/reacttest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gomaci/reacttest/index.html",
+    "main.073c9b0a.css.map": "/gomaci/reacttest/static/css/main.073c9b0a.css.map",
+    "main.2e33ed7c.js.map": "/gomaci/reacttest/static/js/main.2e33ed7c.js.map",
+    "787.db1a5ac8.chunk.js.map": "/gomaci/reacttest/static/js/787.db1a5ac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2e33ed7c.js"
+  ]
+}
